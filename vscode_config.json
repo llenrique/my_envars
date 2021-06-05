@@ -1,0 +1,17 @@
+{
+    "files.autoSave": "onFocusChange",
+    "workbench.colorTheme": "Gruvbox Dark (Soft)",
+    "editor.fontSize": 14,
+    "editor.rulers": [
+        120
+    ],
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 120,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "tabnine.experimentalAutoImports": true,
+    "atomKeymap.promptV3Features": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+}

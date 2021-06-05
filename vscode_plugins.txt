@@ -1,0 +1,12 @@
+code --install-extension bungcip.better-toml
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension donjayamanne.githistory
+code --install-extension eamodio.gitlens
+code --install-extension JakeBecker.elixir-ls
+code --install-extension mjmcloug.vscode-elixir
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-vscode.atom-keybindings
+code --install-extension TabNine.tabnine-vscode
+code --install-extension tomphilbin.gruvbox-themes
