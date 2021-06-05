@@ -1,0 +1,15 @@
+add_newline = true
+
+[character]
+success_symbol = "[|>](bold green)"
+error_symbol = "[X](bold red) "
+
+[elixir]
+symbol = "🔮 "
+
+[git_branch]
+always_show_remote = true
+format = "on [$symbol$branch](bg:purple)"
+
+[gcloud]
+disabled = true
