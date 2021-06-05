@@ -1,5 +1,6 @@
 1.- install brew
 2.- install git
     2.1.- configure git
-3.- install starship
-4.- install vscode
+3.- install oh my zsh
+4.- install starship
+5.- install vscode
