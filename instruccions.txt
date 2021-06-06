@@ -4,3 +4,5 @@
 3.- install oh my zsh
 4.- install starship
 5.- install vscode
+6.- install asdf
+7.- install elixir (depends on requirement)	
